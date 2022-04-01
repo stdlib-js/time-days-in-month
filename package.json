@@ -1,0 +1,35 @@
+{
+  "name": "@stdlib/time-days-in-month",
+  "version": "0.0.0",
+  "description": "Determine the number of days in a month.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/time-days-in-month.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtime",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "date",
+    "month",
+    "mon",
+    "days",
+    "gregorian",
+    "calendar",
+    "time"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
