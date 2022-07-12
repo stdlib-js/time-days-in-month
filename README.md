@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import daysInMonth from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-month@v0.0.9-esm/index.mjs';
+import daysInMonth from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-month@esm/index.mjs';
 ```
 
 #### daysInMonth( \[month\[, year]] )
@@ -102,7 +102,7 @@ var num = daysInMonth( new Date() );
 <body>
 <script type="module">
 
-import daysInMonth from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-month@v0.0.9-esm/index.mjs';
+import daysInMonth from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-month@esm/index.mjs';
 
 var v;
 var i;
