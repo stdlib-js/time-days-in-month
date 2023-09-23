@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import daysInMonth from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-month@deno/mod.js';
+import daysInMonth from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-month@v0.1.0-deno/mod.js';
 ```
 
 #### daysInMonth( \[month\[, year]] )
@@ -108,7 +108,7 @@ var num = daysInMonth( new Date() );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import daysInMonth from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-month@deno/mod.js';
+import daysInMonth from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-month@v0.1.0-deno/mod.js';
 
 var v;
 var i;
